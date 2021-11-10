@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/02 17:24:58.000.544,D:\SoftAgro - Teste\SimularFinanciamento.dproj=D:\delphi_test_calculo_juros-master\SimulaFinanc.dproj</Transaction>
+    <Transaction>2021/11/02 17:25:33.000.121,D:\SoftAgro - Teste\uFrmGenericoPgto.dfm=D:\delphi_test_calculo_juros-master\UFormGenericoPgto.dfm</Transaction>
+    <Transaction>2021/11/02 17:25:33.000.121,D:\SoftAgro - Teste\uFrmGenericoPgto.pas=D:\delphi_test_calculo_juros-master\UFormGenericoPgto.pas</Transaction>
+    <Transaction>2021/11/02 17:25:52.000.362,D:\SoftAgro - Teste\uFrmMain.dfm=D:\delphi_test_calculo_juros-master\UMain.dfm</Transaction>
+    <Transaction>2021/11/02 17:25:52.000.362,D:\SoftAgro - Teste\uFrmMain.pas=D:\delphi_test_calculo_juros-master\UMain.pas</Transaction>
+    <Transaction>2021/11/02 17:27:19.000.455,D:\SoftAgro - Teste\Sistemas\Sistemas.PagamentoUnico.pas=D:\delphi_test_calculo_juros-master\Sistemas\Sistemas.PagamentoUnico.pas</Transaction>
+    <Transaction>2021/11/02 17:27:30.000.338,D:\SoftAgro - Teste\Sistemas\Sistemas.Dados.pas=D:\delphi_test_calculo_juros-master\Sistemas\Sistemas.Dados.pas</Transaction>
+    <Transaction>2021/11/02 17:27:40.000.467,D:\SoftAgro - Teste\Sistemas\Sistemas.Controller.pas=D:\delphi_test_calculo_juros-master\Sistemas\Sistemas.Controller.pas</Transaction>
+  </Transactions>
+</BorlandProject>
